@@ -1,0 +1,31 @@
+problem_attrname;course;nomer_ned;nomer_zad;nedel;result;aim;module;problem_text;n;p;problem_type
+Week 1 WEEK TESTquestion 1;Python Basic;1;1;Week 1 ;Students know principles of variables naming;Применение;m1;Which function allows the user to enter data into the program?;100;1;choicegroup
+Week 1 WEEK TESTquestion 2;Python Basic;1;2;Week 1 ;Students know principles of variables naming;Применение;m1;Which data type contains whole numbers?;100;0,89;choicegroup
+Week 1 WEEK TESTquestion 3;Python Basic;1;3;Week 1 ;Students know principles of variables naming;Применение;m1;Which type of data is the number 0.5 related to?;100;1;choicegroup
+Week 1 WEEK TESTquestion 4;Python Basic;1;4;Week 1 ;Students know principles of variables naming;Применение;m1;Which operator should be used to find the remainder of a number?;100;0,97;choicegroup
+Week 1 WEEK TESTquestion 5;Python Basic;1;5;Week 1 ;Students know principles of variables naming;Применение;m1;What operation does the ** operator do?;100;1;choicegroup
+Week 2 WEEK TESTquestion 1;Python Basic;2;1;Week 2 ;Students understand the main paradigm of conditional statement;Понимание;m2;What values are contained in a logical data type?;97;0,97;checkboxgroup
+Week 2 WEEK TESTquestion 2;Python Basic;2;2;Week 2 ;Students understand the main paradigm of conditional statement;Понимание;m2;What construct sets conditions in Python?;97;0,84;choicegroup
+Week 2 WEEK TESTquestion 3;Python Basic;2;3;Week 2 ;Students understand the main paradigm of conditional statement;Понимание;m2;Why do we need an elif construct?;97;0,74;choicegroup
+Week 2 WEEK TESTquestion 4;Python Basic;2;4;Week 2 ;Students understand the main paradigm of conditional statement;Понимание;m2;What is the condition in the while loop used for?;97;0,95;choicegroup
+Week 2 WEEK TESTquestion 5;Python Basic;2;5;Week 2 ;Students understand the main paradigm of conditional statement;Понимание;m2;How to make a condition with two expressions?;97;0,45;choicegroup
+Week 3 WEEK TESTquestion 1;Python Basic;3;1;Week 3 ;Students understand the main problems of float numbers;Понимание;m3;Why does Python have a problem with precision of real numbers?;97;0,63;choicegroup
+Week 3 WEEK TESTquestion 2;Python Basic;3;2;Week 3 ;Students understand the main problems of float numbers;Понимание;m3;Which methods in the math module can be used to round a number?;97;0,96;checkboxgroup
+Week 3 WEEK TESTquestion 3;Python Basic;3;3;Week 3 ;Students understand the main problems of float numbers;Понимание;m3;Which operations can be performed with strings?;97;0,68;checkboxgroup
+Week 3 WEEK TESTquestion 4;Python Basic;3;4;Week 3 ;Students understand the main problems of float numbers;Понимание;m3;What is the advantage of f-lines?;97;0,15;checkboxgroup
+Week 3 WEEK TESTquestion 5;Python Basic;3;5;Week 3 ;Students understand the main problems of float numbers;Понимание;m3;What error does the program in Python display if the variable name is incorrect?;97;0,96;choicegroup
+Week 4 WEEK TESTquestion 1;Python Basic;4;1;Week 4 ;Students can create tuple;Понимание;m4;Highlight the main features of a tuple.;93;0,44;checkboxgroup
+Week 4 WEEK TESTquestion 2;Python Basic;4;2;Week 4 ;Students know the main cases of using for loop;Понимание;m4;What arguments does the range function have?;93;0,57;checkboxgroup
+Week 4 WEEK TESTquestion 3;Python Basic;4;3;Week 4 ;Students know the main cases of using for loop;Понимание;m4;What does iterable object mean?;93;0,92;choicegroup
+Week 4 WEEK TESTquestion 4;Python Basic;4;4;Week 4 ;Students know the main cases of using for loop;Понимание;m4;What is for loop used for?;93;0,86;choicegroup
+Week 4 WEEK TESTquestion 5;Python Basic;4;5;Week 4 ;Students know the main cases of using for loop;Понимание;m4;What word is used to exit the cycle early?;93;0,98;choicegroup
+Week 5WEEK TESTquestion 1;Python Basic;5;1;Week 5;Students understand the main paradigm of data structure;Понимание;m5;Select basic data structures in Python.;91;0,91;checkboxgroup
+Week 5WEEK TESTquestion 2;Python Basic;5;2;Week 5;Students understand the main paradigm of data structure;Понимание;m5;Specify the features of lists.;91;0,78;checkboxgroup
+Week 5WEEK TESTquestion 3;Python Basic;5;3;Week 5;Students know difference between tuples and lists;Понимание;m5;Which method is used to add items to the list?;91;0,99;choicegroup
+Week 5WEEK TESTquestion 4;Python Basic;5;4;Week 5;Students can work with tuples;Понимание;m5;Which method is used to add elements to a tuple?;91;0,97;choicegroup
+Week 5WEEK TESTquestion 5;Python Basic;5;5;Week 5;Students know difference between tuples and lists;Понимание;m5;Choose the correct syntax for creating list comprehensions.;91;0,66;checkboxgroup
+Week 6WEEK TESTquestion 1;Python Basic;6;1;Week 6;Students understand paradigm of function;Понимание;m6;What methods exist for returning values from a function?;87;0,79;choicegroup
+Week 6WEEK TESTquestion 2;Python Basic;6;2;Week 6;Students know about local and global variables;Применение;m6;What is a local variable?;87;0,62;checkboxgroup
+Week 6WEEK TESTquestion 3;Python Basic;6;3;Week 6;Students know about local and global variables;Применение;m6;What is a global variable?;87;0,59;checkboxgroup
+Week 6WEEK TESTquestion 4;Python Basic;6;4;Week 6;Students understand paradigm of function;Применение;m6;What keyword is used to create a function?;87;1;choicegroup
+Week 6WEEK TESTquestion 5;Python Basic;6;5;Week 6;Students understand paradigm of function;Применение;m6;Choose the correct description of recursion.;86;0,94;choicegroup
